@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreUtil.RabbitMQ", "AspCoreUtil.RabbitMQ\AspCoreUtil.RabbitMQ.csproj", "{8C748F6D-B8C5-4FCB-BEC9-F4DF6CD570E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreUtil.Redis", "AspCoreUtil.Redis\AspCoreUtil.Redis.csproj", "{8EA11838-8AC5-4DE9-B482-FF26D5DA50BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AAD17A95-6258-4F7F-BC9F-96E1C15628CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C748F6D-B8C5-4FCB-BEC9-F4DF6CD570E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C748F6D-B8C5-4FCB-BEC9-F4DF6CD570E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C748F6D-B8C5-4FCB-BEC9-F4DF6CD570E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C748F6D-B8C5-4FCB-BEC9-F4DF6CD570E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA11838-8AC5-4DE9-B482-FF26D5DA50BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA11838-8AC5-4DE9-B482-FF26D5DA50BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA11838-8AC5-4DE9-B482-FF26D5DA50BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA11838-8AC5-4DE9-B482-FF26D5DA50BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3049D64E-08C9-4AF0-838C-00F3318B232C}
+	EndGlobalSection
+EndGlobal
